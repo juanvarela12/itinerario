@@ -1,4 +1,4 @@
-1. Me levanto
+1. Me despierto
 
 2. Desayuno
 
@@ -6,6 +6,6 @@
 
 4. Almuerzo
 
-5. Me voy al colegio
+5. Me voy al colegio        
 
-6. Recuerdo que tengo examen y no estudie
+6. Hago mi examen
